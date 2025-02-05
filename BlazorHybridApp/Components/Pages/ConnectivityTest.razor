@@ -1,0 +1,31 @@
+﻿@page "/connectivity-test"
+@using Microsoft.Maui.Networking
+
+@*
+    Unit 8 of 10
+    If an application needed to detect if internet access was available 
+    on the device, it could use the Connectivity API 
+    in Microsoft.Maui.Networking:
+*@
+
+<h3>Connectivity Test</h3>
+<button @onclick="CheckConnectivity">Check Internet</button>
+
+<p>@message</p>
+
+@code {
+    private string message = "Click the button to test connectivity.";
+
+    private void CheckConnectivity()
+    {
+        var accessType = Connectivity.Current.NetworkAccess;
+        if (accessType == NetworkAccess.Internet)
+        {
+            message = "Internet is available!";
+        }
+        else
+        {
+            message = "No internet connection.";
+        }
+    }
+}

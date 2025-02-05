@@ -1,0 +1,26 @@
+﻿@page "/orientation"
+@using BlazorHybridApp.Services
+
+<h3>Orientation Test</h3>
+<p>@message</p>
+<p>@message2</p>
+<button @onclick="CheckOrientation">Check Orientation</button>
+
+@code {
+    private readonly DeviceOrientationService orientationService = new();
+    private string message = "Click to check orientation";
+    private string message2 = "There is the file in the root file";
+    private string message3 = "There is the file in the android file";
+
+    private void CheckOrientation()
+    {
+        DeviceOrientation orientation = orientationService.GetOrientation();
+
+        message = orientation switch
+        {
+            DeviceOrientation.Landscape => "Landscape",
+            DeviceOrientation.Portrait => "Portrait",
+            _ => "Undefined"
+        };
+    }
+}

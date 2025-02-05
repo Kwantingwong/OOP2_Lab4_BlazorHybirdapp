@@ -14,7 +14,10 @@ namespace BlazorHybridApp
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                 });
 
+            //A MauiProgram.cs that registers services and calls builder.Services.AddMauiBlazorWebView().
+            //For the unit 8 of 10
             builder.Services.AddMauiBlazorWebView();
+
 
 #if DEBUG
     		builder.Services.AddBlazorWebViewDeveloperTools();
