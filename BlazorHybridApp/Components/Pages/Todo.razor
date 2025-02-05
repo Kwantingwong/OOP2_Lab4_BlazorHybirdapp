@@ -48,6 +48,11 @@
     private async Task Save()
     {
         var contents = JsonSerializer.Serialize(todos);
+        //FileSystem.AppDataDirectory is a .NET MAUI cross-platform property that points to the appropriate local data storage folder on each platform. The exact physical path depends on the platform where your app is running:
+        //Window: C:\Users\<username>\AppData\Local\Packages\<your-package-identifier>\LocalState
+        //IOS:/var/mobile/Containers/Data/Application/<GUID>/Documents
+        //android:/data/data/<your-package-name>/files
+
         var path = Path.Combine(FileSystem.AppDataDirectory, "todo.json");
         File.WriteAllText(path, contents);
         await App.Current.MainPage.DisplayAlert("List Saved", $"List has been saved to {path}", "OK");

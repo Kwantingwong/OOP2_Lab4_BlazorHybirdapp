@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6158E315-451E-4987-9D5A-7DBE50F02638}|BlazorHybridApp.csproj|c:\\users\\joywo\\documents\\github\\oop2_lab4_blazorhybirdapp\\blazorhybridapp\\components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6158E315-451E-4987-9D5A-7DBE50F02638}|BlazorHybridApp.csproj|solutionrelative:components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6158E315-451E-4987-9D5A-7DBE50F02638}|BlazorHybridApp.csproj|c:\\users\\joywo\\documents\\github\\oop2_lab4_blazorhybirdapp\\blazorhybridapp\\components\\pages\\orientation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6158E315-451E-4987-9D5A-7DBE50F02638}|BlazorHybridApp.csproj|solutionrelative:components\\pages\\orientation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Todo.razor",
+              "DocumentMoniker": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\Components\\Pages\\Todo.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Todo.razor",
+              "ToolTip": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\Components\\Pages\\Todo.razor",
+              "RelativeToolTip": "Components\\Pages\\Todo.razor",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowDMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T20:02:40.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\App.xaml.cs",
               "RelativeDocumentMoniker": "App.xaml.cs",
@@ -34,12 +51,11 @@
               "RelativeToolTip": "App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T20:00:42.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T20:00:42.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -47,12 +63,11 @@
               "RelativeToolTip": "App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-05T20:00:38.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T20:00:38.469Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Orientation.razor",
               "DocumentMoniker": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\Components\\Pages\\Orientation.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Orientation.razor",
