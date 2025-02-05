@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\BlazorHybridApp.styles.css",
+      "PackagePath": "staticwebassets\\BlazorHybridApp.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.BlazorHybridApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.BlazorHybridApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.BlazorHybridApp.props",
+      "PackagePath": "build\\BlazorHybridApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.BlazorHybridApp.props",
+      "PackagePath": "buildMultiTargeting\\BlazorHybridApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.BlazorHybridApp.props",
+      "PackagePath": "buildTransitive\\BlazorHybridApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

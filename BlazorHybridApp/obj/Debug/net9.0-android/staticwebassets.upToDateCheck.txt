@@ -1,0 +1,8 @@
+C:\Users\joywo\Documents\GitHub\OOP2_Lab4_BlazorHybirdapp\BlazorHybridApp\wwwroot\index.html
+C:\Users\joywo\Documents\GitHub\OOP2_Lab4_BlazorHybirdapp\BlazorHybridApp\wwwroot\css\app.css
+C:\Users\joywo\Documents\GitHub\OOP2_Lab4_BlazorHybirdapp\BlazorHybridApp\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\joywo\Documents\GitHub\OOP2_Lab4_BlazorHybirdapp\BlazorHybridApp\wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\app.css
+wwwroot\css\bootstrap\bootstrap.min.css
+wwwroot\css\bootstrap\bootstrap.min.css.map
+wwwroot\index.html
