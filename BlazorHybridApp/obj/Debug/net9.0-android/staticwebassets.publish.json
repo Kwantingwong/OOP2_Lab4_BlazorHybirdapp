@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tRXoa0tYY0yhii6GvR3PHtkjn/SJekRB0rs7UrjVJvQ=",
+  "Hash": "UetVlRxljj1m9ySGHXYhmmBg92fby2ZDkUb/nT1w+Rs=",
   "Source": "BlazorHybridApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorHybridApp\\wwwroot",
       "Source": "BlazorHybridApp",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\",
       "BasePath": "/",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\2bdy59lzc6-dv5ssrcs0d.gz",
+      "Identity": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\2bdy59lzc6-dv5ssrcs0d.gz",
       "SourceId": "BlazorHybridApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
       "RelativePath": "BlazorHybridApp#[.{fingerprint=dv5ssrcs0d}]?.styles.css.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\BlazorHybridApp.styles.css",
+      "RelatedAsset": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\BlazorHybridApp.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "e60zrj8io8",
       "Integrity": "phKo3Al+1dZQQSb7fAal89cPICgSNpoSt1614eQBW+I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\BlazorHybridApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\BlazorHybridApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\3lxb33l6mb-kkbtktuohx.gz",
+      "Identity": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\3lxb33l6mb-kkbtktuohx.gz",
       "SourceId": "BlazorHybridApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
       "RelativePath": "index#[.{fingerprint=kkbtktuohx}]?.html.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "qu6vghy9q9",
       "Integrity": "cogjIPbZYDwdu+WJjDKe2eaST3JCwOi0jp/uoV0amAM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\endkv3uw53-e5tk7yf482.gz",
+      "Identity": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\endkv3uw53-e5tk7yf482.gz",
       "SourceId": "BlazorHybridApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
       "RelativePath": "css/app#[.{fingerprint=e5tk7yf482}]?.css.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\app.css",
+      "RelatedAsset": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "9sb0w9jnhl",
       "Integrity": "qQ+vo7zHfjEIsR7Ks2Vsx0CJAT5ngXzV3IUcVLWwEfw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\app.css"
+      "OriginalItemSpec": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\ewzp4esccf-8inm30yfxf.gz",
+      "Identity": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\ewzp4esccf-8inm30yfxf.gz",
       "SourceId": "BlazorHybridApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "RelatedAsset": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "fbl5ivwo6k",
       "Integrity": "Kym5HpgDYV8Caci50HDUPG6WCQ6nTP+8hy429w+zHVU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\lkrmstr7j5-dv5ssrcs0d.gz",
+      "Identity": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\lkrmstr7j5-dv5ssrcs0d.gz",
       "SourceId": "BlazorHybridApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
       "RelativePath": "BlazorHybridApp#[.{fingerprint=dv5ssrcs0d}]!.bundle.scp.css.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\BlazorHybridApp.bundle.scp.css",
+      "RelatedAsset": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\BlazorHybridApp.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "e60zrj8io8",
       "Integrity": "phKo3Al+1dZQQSb7fAal89cPICgSNpoSt1614eQBW+I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\BlazorHybridApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\BlazorHybridApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\2bdy59lzc6-dv5ssrcs0d.br",
+      "Identity": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\2bdy59lzc6-dv5ssrcs0d.br",
       "SourceId": "BlazorHybridApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
       "BasePath": "/",
       "RelativePath": "BlazorHybridApp#[.{fingerprint=dv5ssrcs0d}]?.styles.css.br",
       "AssetKind": "All",
@@ -133,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\BlazorHybridApp.styles.css",
+      "RelatedAsset": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\BlazorHybridApp.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
       "Fingerprint": "x3i7z18xzk",
       "Integrity": "bb7y5MVtsEA1IuBA9gUl+Qi3ow0B5GvdNQ3zm4PL7MM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\BlazorHybridApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\BlazorHybridApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\3lxb33l6mb-kkbtktuohx.br",
+      "Identity": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\3lxb33l6mb-kkbtktuohx.br",
       "SourceId": "BlazorHybridApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
       "BasePath": "/",
       "RelativePath": "index#[.{fingerprint=kkbtktuohx}]?.html.br",
       "AssetKind": "All",
@@ -154,20 +154,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
       "Fingerprint": "gvv5nl23m8",
       "Integrity": "ZASQ7xOTYqiSP8AeW64ysZm1vX++EXEIqS3mvXuFP18=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\endkv3uw53-e5tk7yf482.br",
+      "Identity": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\endkv3uw53-e5tk7yf482.br",
       "SourceId": "BlazorHybridApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
       "BasePath": "/",
       "RelativePath": "css/app#[.{fingerprint=e5tk7yf482}]?.css.br",
       "AssetKind": "All",
@@ -175,20 +175,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\app.css",
+      "RelatedAsset": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
       "Fingerprint": "ix9166x7gh",
       "Integrity": "eqlsvw/N8zKnAKc05YDjHT7YIDSUfr5wmQ20CD/lmXo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\app.css"
+      "OriginalItemSpec": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\ewzp4esccf-8inm30yfxf.br",
+      "Identity": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\ewzp4esccf-8inm30yfxf.br",
       "SourceId": "BlazorHybridApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.br",
       "AssetKind": "All",
@@ -196,20 +196,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "RelatedAsset": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
       "Fingerprint": "b4a1wrn6r6",
       "Integrity": "e0W3cltN7F1+gW+ilWd1J4N1PyvYvfyn8Js6/fJEqb0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\lkrmstr7j5-dv5ssrcs0d.br",
+      "Identity": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\lkrmstr7j5-dv5ssrcs0d.br",
       "SourceId": "BlazorHybridApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
       "BasePath": "/",
       "RelativePath": "BlazorHybridApp#[.{fingerprint=dv5ssrcs0d}]!.bundle.scp.css.br",
       "AssetKind": "All",
@@ -217,20 +217,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\BlazorHybridApp.bundle.scp.css",
+      "RelatedAsset": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\BlazorHybridApp.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
       "Fingerprint": "x3i7z18xzk",
       "Integrity": "bb7y5MVtsEA1IuBA9gUl+Qi3ow0B5GvdNQ3zm4PL7MM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\BlazorHybridApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\BlazorHybridApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\si6ki7y4rb-6gzpyzhau4.br",
+      "Identity": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\si6ki7y4rb-6gzpyzhau4.br",
       "SourceId": "BlazorHybridApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.br",
       "AssetKind": "All",
@@ -238,20 +238,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "RelatedAsset": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
       "Fingerprint": "2o883p7o84",
       "Integrity": "4jR0OWxmfzUr920AK8Yzn3GjSgWqtt7AtQDXrJ9OWmA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\si6ki7y4rb-6gzpyzhau4.gz",
+      "Identity": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\si6ki7y4rb-6gzpyzhau4.gz",
       "SourceId": "BlazorHybridApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint=6gzpyzhau4}]?.css.gz",
       "AssetKind": "All",
@@ -259,20 +259,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "RelatedAsset": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "joqzyw7ssu",
       "Integrity": "LTxu1aeZz5yJTTAB+DiLnn5XOMdK1oiypNP/4JaeK9c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\BlazorHybridApp.styles.css",
+      "Identity": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\BlazorHybridApp.styles.css",
       "SourceId": "BlazorHybridApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\",
       "BasePath": "/",
       "RelativePath": "BlazorHybridApp#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -287,13 +287,13 @@
       "Integrity": "ubT40Ro3VRRexKMc9xWE0POaNEgOquQH+F5sUj7U6sk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\BlazorHybridApp.styles.css"
+      "OriginalItemSpec": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\BlazorHybridApp.styles.css"
     },
     {
-      "Identity": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\BlazorHybridApp.bundle.scp.css",
+      "Identity": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\BlazorHybridApp.bundle.scp.css",
       "SourceId": "BlazorHybridApp",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\",
       "BasePath": "/",
       "RelativePath": "BlazorHybridApp#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -308,13 +308,13 @@
       "Integrity": "ubT40Ro3VRRexKMc9xWE0POaNEgOquQH+F5sUj7U6sk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\BlazorHybridApp.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\BlazorHybridApp.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\app.css",
+      "Identity": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\app.css",
       "SourceId": "BlazorHybridApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorHybridApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorHybridApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "css/bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\index.html",
       "SourceId": "BlazorHybridApp",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\",
       "BasePath": "/",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -398,7 +398,7 @@
   "Endpoints": [
     {
       "Route": "BlazorHybridApp.bundle.scp.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\lkrmstr7j5-dv5ssrcs0d.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\lkrmstr7j5-dv5ssrcs0d.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -421,7 +421,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -453,7 +453,7 @@
     },
     {
       "Route": "BlazorHybridApp.bundle.scp.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\lkrmstr7j5-dv5ssrcs0d.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\lkrmstr7j5-dv5ssrcs0d.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -476,7 +476,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -508,7 +508,7 @@
     },
     {
       "Route": "BlazorHybridApp.bundle.scp.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\BlazorHybridApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\BlazorHybridApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -529,7 +529,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -545,7 +545,7 @@
     },
     {
       "Route": "BlazorHybridApp.bundle.scp.css.br",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\lkrmstr7j5-dv5ssrcs0d.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\lkrmstr7j5-dv5ssrcs0d.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -566,7 +566,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -590,7 +590,7 @@
     },
     {
       "Route": "BlazorHybridApp.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\lkrmstr7j5-dv5ssrcs0d.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\lkrmstr7j5-dv5ssrcs0d.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -611,7 +611,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -635,7 +635,7 @@
     },
     {
       "Route": "BlazorHybridApp.dv5ssrcs0d.bundle.scp.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\lkrmstr7j5-dv5ssrcs0d.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\lkrmstr7j5-dv5ssrcs0d.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -658,7 +658,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -698,7 +698,7 @@
     },
     {
       "Route": "BlazorHybridApp.dv5ssrcs0d.bundle.scp.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\lkrmstr7j5-dv5ssrcs0d.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\lkrmstr7j5-dv5ssrcs0d.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -721,7 +721,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -761,7 +761,7 @@
     },
     {
       "Route": "BlazorHybridApp.dv5ssrcs0d.bundle.scp.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\BlazorHybridApp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\projectbundle\\BlazorHybridApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -782,7 +782,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -806,7 +806,7 @@
     },
     {
       "Route": "BlazorHybridApp.dv5ssrcs0d.bundle.scp.css.br",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\lkrmstr7j5-dv5ssrcs0d.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\lkrmstr7j5-dv5ssrcs0d.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -827,7 +827,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -859,7 +859,7 @@
     },
     {
       "Route": "BlazorHybridApp.dv5ssrcs0d.bundle.scp.css.gz",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\lkrmstr7j5-dv5ssrcs0d.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\lkrmstr7j5-dv5ssrcs0d.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -880,7 +880,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -912,7 +912,7 @@
     },
     {
       "Route": "BlazorHybridApp.dv5ssrcs0d.styles.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\2bdy59lzc6-dv5ssrcs0d.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\2bdy59lzc6-dv5ssrcs0d.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -935,7 +935,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -975,7 +975,7 @@
     },
     {
       "Route": "BlazorHybridApp.dv5ssrcs0d.styles.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\2bdy59lzc6-dv5ssrcs0d.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\2bdy59lzc6-dv5ssrcs0d.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -998,7 +998,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1038,7 +1038,7 @@
     },
     {
       "Route": "BlazorHybridApp.dv5ssrcs0d.styles.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\BlazorHybridApp.styles.css",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\BlazorHybridApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1059,7 +1059,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1083,7 +1083,7 @@
     },
     {
       "Route": "BlazorHybridApp.dv5ssrcs0d.styles.css.br",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\2bdy59lzc6-dv5ssrcs0d.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\2bdy59lzc6-dv5ssrcs0d.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1104,7 +1104,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1136,7 +1136,7 @@
     },
     {
       "Route": "BlazorHybridApp.dv5ssrcs0d.styles.css.gz",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\2bdy59lzc6-dv5ssrcs0d.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\2bdy59lzc6-dv5ssrcs0d.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1157,7 +1157,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1189,7 +1189,7 @@
     },
     {
       "Route": "BlazorHybridApp.styles.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\2bdy59lzc6-dv5ssrcs0d.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\2bdy59lzc6-dv5ssrcs0d.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1212,7 +1212,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1244,7 +1244,7 @@
     },
     {
       "Route": "BlazorHybridApp.styles.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\2bdy59lzc6-dv5ssrcs0d.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\2bdy59lzc6-dv5ssrcs0d.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1267,7 +1267,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1299,7 +1299,7 @@
     },
     {
       "Route": "BlazorHybridApp.styles.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\BlazorHybridApp.styles.css",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\scopedcss\\bundle\\BlazorHybridApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1320,7 +1320,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1336,7 +1336,7 @@
     },
     {
       "Route": "BlazorHybridApp.styles.css.br",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\2bdy59lzc6-dv5ssrcs0d.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\2bdy59lzc6-dv5ssrcs0d.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1357,7 +1357,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1381,7 +1381,7 @@
     },
     {
       "Route": "BlazorHybridApp.styles.css.gz",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\2bdy59lzc6-dv5ssrcs0d.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\2bdy59lzc6-dv5ssrcs0d.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1402,7 +1402,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:44 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1426,7 +1426,7 @@
     },
     {
       "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\endkv3uw53-e5tk7yf482.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\endkv3uw53-e5tk7yf482.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1449,7 +1449,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1481,7 +1481,7 @@
     },
     {
       "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\endkv3uw53-e5tk7yf482.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\endkv3uw53-e5tk7yf482.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1504,7 +1504,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1536,7 +1536,7 @@
     },
     {
       "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\app.css",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1557,7 +1557,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1573,7 +1573,7 @@
     },
     {
       "Route": "css/app.css.br",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\endkv3uw53-e5tk7yf482.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\endkv3uw53-e5tk7yf482.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1594,7 +1594,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1618,7 +1618,7 @@
     },
     {
       "Route": "css/app.css.gz",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\endkv3uw53-e5tk7yf482.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\endkv3uw53-e5tk7yf482.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1639,7 +1639,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1663,7 +1663,7 @@
     },
     {
       "Route": "css/app.e5tk7yf482.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\endkv3uw53-e5tk7yf482.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\endkv3uw53-e5tk7yf482.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1686,7 +1686,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1726,7 +1726,7 @@
     },
     {
       "Route": "css/app.e5tk7yf482.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\endkv3uw53-e5tk7yf482.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\endkv3uw53-e5tk7yf482.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1749,7 +1749,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1789,7 +1789,7 @@
     },
     {
       "Route": "css/app.e5tk7yf482.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\app.css",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1810,7 +1810,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1834,7 +1834,7 @@
     },
     {
       "Route": "css/app.e5tk7yf482.css.br",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\endkv3uw53-e5tk7yf482.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\endkv3uw53-e5tk7yf482.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1855,7 +1855,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1887,7 +1887,7 @@
     },
     {
       "Route": "css/app.e5tk7yf482.css.gz",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\endkv3uw53-e5tk7yf482.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\endkv3uw53-e5tk7yf482.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1908,7 +1908,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1940,7 +1940,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\si6ki7y4rb-6gzpyzhau4.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\si6ki7y4rb-6gzpyzhau4.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1963,7 +1963,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2003,7 +2003,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\si6ki7y4rb-6gzpyzhau4.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\si6ki7y4rb-6gzpyzhau4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2026,7 +2026,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2066,7 +2066,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2087,7 +2087,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2111,7 +2111,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.br",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\si6ki7y4rb-6gzpyzhau4.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\si6ki7y4rb-6gzpyzhau4.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2132,7 +2132,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2164,7 +2164,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.6gzpyzhau4.css.gz",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\si6ki7y4rb-6gzpyzhau4.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\si6ki7y4rb-6gzpyzhau4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2185,7 +2185,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2217,7 +2217,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\si6ki7y4rb-6gzpyzhau4.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\si6ki7y4rb-6gzpyzhau4.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2240,7 +2240,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2272,7 +2272,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\si6ki7y4rb-6gzpyzhau4.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\si6ki7y4rb-6gzpyzhau4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2295,7 +2295,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2327,7 +2327,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2348,7 +2348,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2364,7 +2364,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\ewzp4esccf-8inm30yfxf.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\ewzp4esccf-8inm30yfxf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2387,7 +2387,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2427,7 +2427,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\ewzp4esccf-8inm30yfxf.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\ewzp4esccf-8inm30yfxf.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2450,7 +2450,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2490,7 +2490,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2511,7 +2511,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2535,7 +2535,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.br",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\ewzp4esccf-8inm30yfxf.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\ewzp4esccf-8inm30yfxf.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2556,7 +2556,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2588,7 +2588,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\ewzp4esccf-8inm30yfxf.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\ewzp4esccf-8inm30yfxf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2609,7 +2609,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2641,7 +2641,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.br",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\si6ki7y4rb-6gzpyzhau4.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\si6ki7y4rb-6gzpyzhau4.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2662,7 +2662,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2686,7 +2686,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.gz",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\si6ki7y4rb-6gzpyzhau4.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\si6ki7y4rb-6gzpyzhau4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2707,7 +2707,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2731,7 +2731,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\ewzp4esccf-8inm30yfxf.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\ewzp4esccf-8inm30yfxf.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2754,7 +2754,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2786,7 +2786,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\ewzp4esccf-8inm30yfxf.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\ewzp4esccf-8inm30yfxf.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2809,7 +2809,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2841,7 +2841,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2862,7 +2862,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2878,7 +2878,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map.br",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\ewzp4esccf-8inm30yfxf.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\ewzp4esccf-8inm30yfxf.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2899,7 +2899,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2923,7 +2923,7 @@
     },
     {
       "Route": "css/bootstrap/bootstrap.min.css.map.gz",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\ewzp4esccf-8inm30yfxf.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\ewzp4esccf-8inm30yfxf.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2944,7 +2944,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2968,7 +2968,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\3lxb33l6mb-kkbtktuohx.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\3lxb33l6mb-kkbtktuohx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2991,7 +2991,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3023,7 +3023,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\3lxb33l6mb-kkbtktuohx.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\3lxb33l6mb-kkbtktuohx.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3046,7 +3046,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3078,7 +3078,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3099,7 +3099,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3115,7 +3115,7 @@
     },
     {
       "Route": "index.html.br",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\3lxb33l6mb-kkbtktuohx.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\3lxb33l6mb-kkbtktuohx.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3136,7 +3136,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3160,7 +3160,7 @@
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\3lxb33l6mb-kkbtktuohx.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\3lxb33l6mb-kkbtktuohx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3181,7 +3181,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3205,7 +3205,7 @@
     },
     {
       "Route": "index.kkbtktuohx.html",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\3lxb33l6mb-kkbtktuohx.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\3lxb33l6mb-kkbtktuohx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3228,7 +3228,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3268,7 +3268,7 @@
     },
     {
       "Route": "index.kkbtktuohx.html",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\3lxb33l6mb-kkbtktuohx.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\3lxb33l6mb-kkbtktuohx.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3291,7 +3291,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3331,7 +3331,7 @@
     },
     {
       "Route": "index.kkbtktuohx.html",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3352,7 +3352,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3376,7 +3376,7 @@
     },
     {
       "Route": "index.kkbtktuohx.html.br",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\3lxb33l6mb-kkbtktuohx.br",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\publish\\3lxb33l6mb-kkbtktuohx.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3397,7 +3397,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3429,7 +3429,7 @@
     },
     {
       "Route": "index.kkbtktuohx.html.gz",
-      "AssetFile": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\3lxb33l6mb-kkbtktuohx.gz",
+      "AssetFile": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-android\\compressed\\3lxb33l6mb-kkbtktuohx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3450,7 +3450,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 05 Feb 2025 18:18:26 GMT"
+          "Value": "Wed, 12 Feb 2025 22:51:57 GMT"
         },
         {
           "Name": "Cache-Control",

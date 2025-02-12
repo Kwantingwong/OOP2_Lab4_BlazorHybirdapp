@@ -1,7 +1,7 @@
-C:\Users\joywo\Documents\GitHub\OOP2_Lab4_BlazorHybirdapp\BlazorHybridApp\wwwroot\index.html
-C:\Users\joywo\Documents\GitHub\OOP2_Lab4_BlazorHybirdapp\BlazorHybridApp\wwwroot\css\app.css
-C:\Users\joywo\Documents\GitHub\OOP2_Lab4_BlazorHybirdapp\BlazorHybridApp\wwwroot\css\bootstrap\bootstrap.min.css.map
-C:\Users\joywo\Documents\GitHub\OOP2_Lab4_BlazorHybirdapp\BlazorHybridApp\wwwroot\css\bootstrap\bootstrap.min.css
+C:\Users\akira\OneDrive\Documents\Joy_Sem2\OOP2_Lab4_BlazorHybirdapp\BlazorHybridApp\wwwroot\index.html
+C:\Users\akira\OneDrive\Documents\Joy_Sem2\OOP2_Lab4_BlazorHybirdapp\BlazorHybridApp\wwwroot\css\app.css
+C:\Users\akira\OneDrive\Documents\Joy_Sem2\OOP2_Lab4_BlazorHybirdapp\BlazorHybridApp\wwwroot\css\bootstrap\bootstrap.min.css.map
+C:\Users\akira\OneDrive\Documents\Joy_Sem2\OOP2_Lab4_BlazorHybirdapp\BlazorHybridApp\wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\app.css
 wwwroot\css\bootstrap\bootstrap.min.css
 wwwroot\css\bootstrap\bootstrap.min.css.map

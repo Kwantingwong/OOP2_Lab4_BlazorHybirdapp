@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\BlazorHybridApp.styles.css",
+      "Id": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\BlazorHybridApp.styles.css",
       "PackagePath": "staticwebassets\\BlazorHybridApp.styles.css"
     },
     {
-      "Id": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\index.html",
+      "Id": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {

@@ -9,7 +9,7 @@
 <h3>Todo (@todos.Count(todo => !todo.IsDone))</h3>
 
 <button @onclick="Save">Save</button>
-<button @onclick="Load">Load</button>
+<button @onclick="Load">Load the todo items</button>
 
 <ul class="list-unstyled">
     @foreach (var todo in todos)
@@ -18,8 +18,9 @@
             @* Add a checkbox input for each todo item
             and bind its value to the IsDone property*@
 
-            <input type="checkbox" @bind="todo.IsDone" />
+            <input type="checkbox" checked="@todo.IsDone" @onchange="@(() => MoveToDone(todo))" />
             <input @bind="todo.Title" />
+            <button @onclick="@(() => RemoveItem(todo, todos))">remove</button> <!-- ✅ Add remove button -->
         </li>
     }
 </ul>
@@ -28,14 +29,28 @@
 <input placeholder="Something todo" @bind="newTodo" />
 <button @onclick="AddTodo">Add todo</button>
 
+<h4>Completed Tasks</h4>
+<ul>
+    @foreach (var done in dones)
+    {
+        <li>
+            <s>@done.Title</s> <!-- Strike-through for done tasks -->
+            <button @onclick="@(() => RemoveItem(done, dones))">remove</button>
+        </li>
+    }
+</ul>
+
 @*To get the title of the new todo item, add a newTodo string field at the top of the @code block:*@
 @code {
-    private List<TodoItem> todos = new();
+    private List<TodoItem> todos = new List<TodoItem>();
+    private List<TodoItem> dones = new List<TodoItem>();
+
     private string? newTodo;
+    private bool IsDone { get; set; } = false;
 
     private void AddTodo()
     {
-        
+
         if (!string.IsNullOrWhiteSpace(newTodo))
         {
             todos.Add(new TodoItem { Title = newTodo });
@@ -43,6 +58,30 @@
             //Update the AddTodo method to add the TodoItem with the specified title to the list.
             //Clear the value of the text input by setting newTodo to an empty string:
         }
+    }
+
+    private void MoveToDone(TodoItem todo)
+    {
+        todo.IsDone = !todo.IsDone;
+
+        //only if done
+        if (todo.IsDone)
+        {
+            todos.Remove(todo);
+            dones.Add(todo);
+        }
+        else // Move back to "to-do" list if unchecked
+        {
+            dones.Remove(todo);
+            todos.Add(todo);
+        }
+
+    }
+
+    //delete item from speciifed list
+    private void RemoveItem(TodoItem item, List<TodoItem> itemlist)
+    {
+        itemlist.Remove(item);
     }
 
     private async Task Save()
@@ -66,6 +105,7 @@
         var contents = File.ReadAllText(path);
         var savedItems = JsonSerializer.Deserialize<List<TodoItem>>(contents);
         todos.Clear();
+        dones.Clear();
         todos.AddRange(savedItems);
     }
 }

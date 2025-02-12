@@ -9,7 +9,7 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorHybridApp
 build_property.RootNamespace = BlazorHybridApp
-build_property.ProjectDir = C:\Users\joywo\Documents\GitHub\OOP2_Lab4_BlazorHybirdapp\BlazorHybridApp\
+build_property.ProjectDir = C:\Users\akira\OneDrive\Documents\Joy_Sem2\OOP2_Lab4_BlazorHybirdapp\BlazorHybridApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTAotOptimizerEnabled = true
@@ -23,89 +23,89 @@ build_property.CsWinRTUseWindowsUIXamlProjections = false
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\joywo\Documents\GitHub\OOP2_Lab4_BlazorHybirdapp\BlazorHybridApp
+build_property.MSBuildProjectDirectory = C:\Users\akira\OneDrive\Documents\Joy_Sem2\OOP2_Lab4_BlazorHybirdapp\BlazorHybridApp
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/joywo/Documents/GitHub/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/App.xaml]
+[C:/Users/akira/OneDrive/Documents/Joy_Sem2/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = BlazorHybridApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joywo/Documents/GitHub/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/MainPage.xaml]
+[C:/Users/akira/OneDrive/Documents/Joy_Sem2/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = BlazorHybridApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joywo/Documents/GitHub/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/Pages/ConnectivityTest.razor]
+[C:/Users/akira/OneDrive/Documents/Joy_Sem2/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/Pages/ConnectivityTest.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb25uZWN0aXZpdHlUZXN0LnJhem9y
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joywo/Documents/GitHub/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/Pages/Counter.razor]
+[C:/Users/akira/OneDrive/Documents/Joy_Sem2/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joywo/Documents/GitHub/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/Pages/Home.razor]
+[C:/Users/akira/OneDrive/Documents/Joy_Sem2/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joywo/Documents/GitHub/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/Pages/Orientation.razor]
+[C:/Users/akira/OneDrive/Documents/Joy_Sem2/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/Pages/Orientation.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xPcmllbnRhdGlvbi5yYXpvcg==
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joywo/Documents/GitHub/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/Pages/Todo.razor]
+[C:/Users/akira/OneDrive/Documents/Joy_Sem2/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/Pages/Todo.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUb2RvLnJhem9y
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joywo/Documents/GitHub/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/Pages/Weather.razor]
+[C:/Users/akira/OneDrive/Documents/Joy_Sem2/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joywo/Documents/GitHub/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/Routes.razor]
+[C:/Users/akira/OneDrive/Documents/Joy_Sem2/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/Routes.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joywo/Documents/GitHub/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/_Imports.razor]
+[C:/Users/akira/OneDrive/Documents/Joy_Sem2/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/_Imports.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joywo/Documents/GitHub/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/Layout/MainLayout.razor]
+[C:/Users/akira/OneDrive/Documents/Joy_Sem2/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.RelativePath = 
 build_metadata.AdditionalFiles.CssScope = b-abt33pfyhw
 
-[C:/Users/joywo/Documents/GitHub/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/Layout/NavMenu.razor]
+[C:/Users/akira/OneDrive/Documents/Joy_Sem2/OOP2_Lab4_BlazorHybirdapp/BlazorHybridApp/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.GenKind = 
 build_metadata.AdditionalFiles.ManifestResourceName = 
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==

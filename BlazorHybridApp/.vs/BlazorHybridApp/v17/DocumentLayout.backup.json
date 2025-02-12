@@ -1,21 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\",
+  "WorkspaceRootPath": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6158E315-451E-4987-9D5A-7DBE50F02638}|BlazorHybridApp.csproj|c:\\users\\joywo\\documents\\github\\oop2_lab4_blazorhybirdapp\\blazorhybridapp\\components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6158E315-451E-4987-9D5A-7DBE50F02638}|BlazorHybridApp.csproj|c:\\users\\akira\\onedrive\\documents\\joy_sem2\\oop2_lab4_blazorhybirdapp\\blazorhybridapp\\components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6158E315-451E-4987-9D5A-7DBE50F02638}|BlazorHybridApp.csproj|solutionrelative:components\\pages\\todo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6158E315-451E-4987-9D5A-7DBE50F02638}|BlazorHybridApp.csproj|c:\\users\\joywo\\documents\\github\\oop2_lab4_blazorhybirdapp\\blazorhybridapp\\components\\pages\\orientation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6158E315-451E-4987-9D5A-7DBE50F02638}|BlazorHybridApp.csproj|c:\\users\\akira\\onedrive\\documents\\joy_sem2\\oop2_lab4_blazorhybirdapp\\blazorhybridapp\\components\\pages\\orientation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6158E315-451E-4987-9D5A-7DBE50F02638}|BlazorHybridApp.csproj|solutionrelative:components\\pages\\orientation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6158E315-451E-4987-9D5A-7DBE50F02638}|BlazorHybridApp.csproj|c:\\users\\joywo\\documents\\github\\oop2_lab4_blazorhybirdapp\\blazorhybridapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6158E315-451E-4987-9D5A-7DBE50F02638}|BlazorHybridApp.csproj|c:\\users\\akira\\onedrive\\documents\\joy_sem2\\oop2_lab4_blazorhybirdapp\\blazorhybridapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6158E315-451E-4987-9D5A-7DBE50F02638}|BlazorHybridApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6158E315-451E-4987-9D5A-7DBE50F02638}|BlazorHybridApp.csproj|c:\\users\\joywo\\documents\\github\\oop2_lab4_blazorhybirdapp\\blazorhybridapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{6158E315-451E-4987-9D5A-7DBE50F02638}|BlazorHybridApp.csproj|c:\\users\\akira\\onedrive\\documents\\joy_sem2\\oop2_lab4_blazorhybirdapp\\blazorhybridapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6158E315-451E-4987-9D5A-7DBE50F02638}|BlazorHybridApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -26,40 +29,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAN4UAAAAAAAAAAAuwPMUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-12T23:29:39.585Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Todo.razor",
-              "DocumentMoniker": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\Components\\Pages\\Todo.razor",
+              "DocumentMoniker": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\Components\\Pages\\Todo.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Todo.razor",
-              "ToolTip": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\Components\\Pages\\Todo.razor",
+              "ToolTip": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\Components\\Pages\\Todo.razor",
               "RelativeToolTip": "Components\\Pages\\Todo.razor",
-              "ViewState": "AgIAACIAAAAAAAAAAAAowDMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-05T20:02:40.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-05T20:00:42.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\App.xaml",
+              "DocumentMoniker": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\App.xaml",
+              "ToolTip": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
@@ -69,14 +73,30 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Orientation.razor",
-              "DocumentMoniker": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\Components\\Pages\\Orientation.razor",
+              "DocumentMoniker": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\Components\\Pages\\Orientation.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Orientation.razor",
-              "ToolTip": "C:\\Users\\joywo\\Documents\\GitHub\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\Components\\Pages\\Orientation.razor",
+              "ToolTip": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\Components\\Pages\\Orientation.razor",
               "RelativeToolTip": "Components\\Pages\\Orientation.razor",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAYAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-05T19:47:15.396Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\akira\\OneDrive\\Documents\\Joy_Sem2\\OOP2_Lab4_BlazorHybirdapp\\BlazorHybridApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:00:42.058Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
